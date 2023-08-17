@@ -28,6 +28,7 @@
 }
 
 .image-style{
+    border: 3px solid rgba(#FFFFFF00);
     border-radius: 15px;
 }
 
@@ -60,6 +61,11 @@
     display: flex;
     justify-content: space-around;
     width: 100%;
+}
+
+.footer-style{
+    display: flex;
+    justify-content: center;
 }
 
 .button-style{
