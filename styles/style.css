@@ -32,12 +32,12 @@
     border-radius: 15px;
 }
 
-.figure-style:hover figcaption{
+.item-style:hover span{
     color: white;
 
 }
 
-.figure-style:hover img{
+.item-style:hover img{
     border: 3px solid white;
 }
 
@@ -47,13 +47,9 @@
     margin-top: 10px;
 }
 
-.figure-style{
+.item-style{
     display: flex;
     flex-direction: column;
-    width: 100%;
-}
-
-.item-style{
     width: 20%;
 }
 
